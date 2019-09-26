@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/jasvir1224/Test_2_C0744577.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/jenellenonsense/tappyspaceship-f19.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Downloads" />
